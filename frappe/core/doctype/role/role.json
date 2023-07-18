@@ -8,6 +8,7 @@
  "engine": "InnoDB",
  "field_order": [
   "role_name",
+  "description",
   "home_page",
   "restrict_to_domain",
   "column_break_4",
@@ -142,13 +143,18 @@
    "fieldtype": "Check",
    "in_list_view": 1,
    "label": "Is Custom"
+  },
+  {
+   "fieldname": "description",
+   "fieldtype": "Data",
+   "label": "Description"
   }
  ],
  "icon": "fa fa-bookmark",
  "idx": 1,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-08-05 18:33:27.694065",
+ "modified": "2023-06-26 12:56:34.529930",
  "modified_by": "Administrator",
  "module": "Core",
  "name": "Role",

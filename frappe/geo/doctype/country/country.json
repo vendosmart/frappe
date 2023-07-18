@@ -12,7 +12,8 @@
   "date_format",
   "time_format",
   "time_zones",
-  "code"
+  "code",
+  "currency"
  ],
  "fields": [
   {
@@ -49,15 +50,23 @@
    "fieldtype": "Data",
    "in_list_view": 1,
    "label": "Code"
+  },
+  {
+   "default": "USD",
+   "fieldname": "currency",
+   "fieldtype": "Link",
+   "label": "Currency",
+   "options": "Currency"
   }
  ],
  "icon": "fa fa-globe",
  "idx": 1,
  "links": [],
- "modified": "2022-08-05 18:33:27.880783",
+ "modified": "2023-07-10 20:13:52.925546",
  "modified_by": "Administrator",
  "module": "Geo",
  "name": "Country",
+ "naming_rule": "By fieldname",
  "owner": "Administrator",
  "permissions": [
   {

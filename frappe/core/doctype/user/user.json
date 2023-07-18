@@ -88,7 +88,10 @@
   "generate_keys",
   "column_break_65",
   "api_secret",
-  "onboarding_status"
+  "onboarding_status",
+  "join_status",
+  "firebase_uid",
+  "api_key_s"
  ],
  "fields": [
   {
@@ -617,13 +620,13 @@
    "options": "Module Profile"
   },
   {
-    "description": "Stores the datetime when the last reset password key was generated.",
-    "fieldname": "last_reset_password_key_generated_on",
-    "fieldtype": "Datetime",
-    "hidden": 1,
-    "label": "Last Reset Password Key Generated On",
-    "read_only": 1
-   },
+   "description": "Stores the datetime when the last reset password key was generated.",
+   "fieldname": "last_reset_password_key_generated_on",
+   "fieldtype": "Datetime",
+   "hidden": 1,
+   "label": "Last Reset Password Key Generated On",
+   "read_only": 1
+  },
   {
    "fieldname": "column_break_75",
    "fieldtype": "Column Break"
@@ -650,12 +653,12 @@
    "label": "Auto follow documents that you Like"
   },
   {
-    "default": "0",
-    "depends_on": "eval:(doc.document_follow_notify== 1)",
-    "fieldname": "follow_shared_documents",
-    "fieldtype": "Check",
-    "label": "Auto follow documents that are shared with you"
-   },
+   "default": "0",
+   "depends_on": "eval:(doc.document_follow_notify== 1)",
+   "fieldname": "follow_shared_documents",
+   "fieldtype": "Check",
+   "label": "Auto follow documents that are shared with you"
+  },
   {
    "default": "0",
    "depends_on": "eval:(doc.document_follow_notify== 1)",
@@ -669,6 +672,24 @@
    "fieldtype": "Small Text",
    "hidden": 1,
    "label": "Onboarding Status"
+  },
+  {
+   "default": "Pending",
+   "fieldname": "join_status",
+   "fieldtype": "Select",
+   "label": "Join Status",
+   "options": "Pending\nJoined\nSuspended\nWithdrawn",
+   "reqd": 1
+  },
+  {
+   "fieldname": "firebase_uid",
+   "fieldtype": "Data",
+   "label": "Firebase UID"
+  },
+  {
+   "fieldname": "api_key_s",
+   "fieldtype": "Data",
+   "label": "API Secret Key"
   }
  ],
  "icon": "fa fa-user",
@@ -731,7 +752,7 @@
    "link_fieldname": "user"
   }
  ],
- "modified": "2023-06-05 17:26:04.127555",
+ "modified": "2023-07-14 13:17:09.589563",
  "modified_by": "Administrator",
  "module": "Core",
  "name": "User",
