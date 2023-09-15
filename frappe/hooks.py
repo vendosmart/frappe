@@ -436,6 +436,7 @@ extend_bootinfo = [
 
 fixtures=[
     "Role",
+    "Country",
     {
     "dt":"Custom DocPerm",
     "filters":[[
