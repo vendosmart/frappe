@@ -6,7 +6,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.812356",
+  "modified": "2023-08-29 19:29:24.233568",
   "name": "Afghanistan",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Kabul"
@@ -18,7 +18,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.832557",
+  "modified": "2023-08-29 19:29:24.253556",
   "name": "Albania",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Tirane"
@@ -30,7 +30,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.842049",
+  "modified": "2023-08-29 19:29:24.265161",
   "name": "Algeria",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Algiers"
@@ -42,7 +42,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.844377",
+  "modified": "2023-08-29 19:29:24.267707",
   "name": "American Samoa",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -54,7 +54,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.853305",
+  "modified": "2023-08-29 19:29:24.277364",
   "name": "Andorra",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Andorra"
@@ -66,7 +66,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.855621",
+  "modified": "2023-08-29 19:29:24.279927",
   "name": "Angola",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Luanda"
@@ -78,7 +78,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.857929",
+  "modified": "2023-08-29 19:29:24.282456",
   "name": "Anguilla",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Anguilla"
@@ -90,7 +90,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.860185",
+  "modified": "2023-08-29 19:29:24.284935",
   "name": "Antarctica",
   "time_format": "HH:mm:ss",
   "time_zones": "Antarctica/Casey\nAntarctica/Davis\nAntarctica/DumontDUrville\nAntarctica/Macquarie\nAntarctica/Mawson\nAntarctica/McMurdo\nAntarctica/Palmer\nAntarctica/Rothera\nAntarctica/Syowa\nAntarctica/Vostok"
@@ -102,7 +102,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.861315",
+  "modified": "2023-08-29 19:29:24.286178",
   "name": "Antigua and Barbuda",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Antigua"
@@ -114,7 +114,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.863117",
+  "modified": "2023-08-29 19:29:24.288121",
   "name": "Argentina",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Argentina/Buenos_Aires\nAmerica/Argentina/Catamarca\nAmerica/Argentina/Cordoba\nAmerica/Argentina/Jujuy\nAmerica/Argentina/La_Rioja\nAmerica/Argentina/Mendoza\nAmerica/Argentina/Rio_Gallegos\nAmerica/Argentina/Salta\nAmerica/Argentina/San_Juan\nAmerica/Argentina/San_Luis\nAmerica/Argentina/Tucuman\nAmerica/Argentina/Ushuaia"
@@ -126,7 +126,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.865380",
+  "modified": "2023-08-29 19:29:24.290593",
   "name": "Armenia",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Yerevan"
@@ -138,10 +138,22 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.867627",
+  "modified": "2023-08-29 19:29:24.293039",
   "name": "Aruba",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Aruba"
+ },
+ {
+  "code": "au",
+  "country_name": "Australia",
+  "currency": "AUD",
+  "date_format": "dd-mm-yyyy",
+  "docstatus": 0,
+  "doctype": "Country",
+  "modified": "2023-09-01 17:50:01.890935",
+  "name": "Australia",
+  "time_format": "HH:mm:ss",
+  "time_zones": "Australia/Adelaide\nAustralia/Brisbane\nAustralia/Broken_Hill\nAustralia/Currie\nAustralia/Darwin\nAustralia/Eucla\nAustralia/Hobart\nAustralia/Lindeman\nAustralia/Lord_Howe\nAustralia/Melbourne\nAustralia/Perth\nAustralia/Sydney"
  },
  {
   "code": "at",
@@ -150,7 +162,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.872104",
+  "modified": "2023-08-29 19:29:24.297934",
   "name": "Austria",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Vienna"
@@ -162,7 +174,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.873881",
+  "modified": "2023-08-29 19:29:24.299832",
   "name": "Azerbaijan",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Baku"
@@ -174,7 +186,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.875021",
+  "modified": "2023-08-29 19:29:24.301097",
   "name": "Bahamas",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Nassau"
@@ -186,7 +198,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.877266",
+  "modified": "2023-08-29 19:29:24.303546",
   "name": "Bahrain",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Bahrain"
@@ -198,7 +210,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.879509",
+  "modified": "2023-08-29 19:29:24.305949",
   "name": "Bangladesh",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Dhaka"
@@ -210,7 +222,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.881786",
+  "modified": "2023-08-29 19:29:24.308368",
   "name": "Barbados",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Barbados"
@@ -222,7 +234,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.884043",
+  "modified": "2023-08-29 19:29:24.310772",
   "name": "Belarus",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Minsk"
@@ -234,7 +246,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.885163",
+  "modified": "2023-08-29 19:29:24.312000",
   "name": "Belgium",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Brussels"
@@ -246,7 +258,7 @@
   "date_format": "mm-dd-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.886912",
+  "modified": "2023-08-29 19:29:24.313876",
   "name": "Belize",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Belize"
@@ -258,7 +270,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.889163",
+  "modified": "2023-08-29 19:29:24.316280",
   "name": "Benin",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Porto-Novo"
@@ -270,7 +282,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.891395",
+  "modified": "2023-08-29 19:29:24.318646",
   "name": "Bermuda",
   "time_format": "HH:mm:ss",
   "time_zones": "Atlantic/Bermuda"
@@ -282,7 +294,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.893635",
+  "modified": "2023-08-29 19:29:24.321003",
   "name": "Bhutan",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Thimphu"
@@ -294,7 +306,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.895891",
+  "modified": "2023-08-29 19:29:24.323442",
   "name": "Bolivia, Plurinational State of",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -306,7 +318,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.898112",
+  "modified": "2023-08-29 19:29:24.325811",
   "name": "Bonaire, Sint Eustatius and Saba",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -318,7 +330,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.899246",
+  "modified": "2023-08-29 19:29:24.326997",
   "name": "Bosnia and Herzegovina",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Sarajevo"
@@ -330,7 +342,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.901463",
+  "modified": "2023-08-29 19:29:24.329354",
   "name": "Botswana",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Gaborone"
@@ -342,7 +354,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.903705",
+  "modified": "2023-08-29 19:29:24.331710",
   "name": "Bouvet Island",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -354,7 +366,7 @@
   "date_format": "dd/mm/yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.904818",
+  "modified": "2023-08-29 19:29:24.332885",
   "name": "Brazil",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Araguaina\nAmerica/Bahia\nAmerica/Belem\nAmerica/Boa_Vista\nAmerica/Campo_Grande\nAmerica/Cuiaba\nAmerica/Eirunepe\nAmerica/Fortaleza\nAmerica/Maceio\nAmerica/Manaus\nAmerica/Noronha\nAmerica/Porto_Velho\nAmerica/Recife\nAmerica/Rio_Branco\nAmerica/Santarem\nAmerica/Sao_Paulo"
@@ -366,7 +378,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.907205",
+  "modified": "2023-08-29 19:29:24.335229",
   "name": "British Indian Ocean Territory",
   "time_format": "HH:mm:ss",
   "time_zones": "Indian/Chagos"
@@ -378,7 +390,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.908329",
+  "modified": "2023-08-29 19:29:24.336438",
   "name": "Brunei Darussalam",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Brunei"
@@ -390,7 +402,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.910571",
+  "modified": "2023-08-29 19:29:24.338814",
   "name": "Bulgaria",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Sofia"
@@ -402,7 +414,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.912812",
+  "modified": "2023-08-29 19:29:24.341188",
   "name": "Burkina Faso",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Ouagadougou"
@@ -414,7 +426,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.914563",
+  "modified": "2023-08-29 19:29:24.343010",
   "name": "Burundi",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Bujumbura"
@@ -426,7 +438,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.916804",
+  "modified": "2023-08-29 19:29:24.345378",
   "name": "Cambodia",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Phnom_Penh"
@@ -438,7 +450,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.919044",
+  "modified": "2023-08-29 19:29:24.347738",
   "name": "Cameroon",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Douala"
@@ -450,7 +462,7 @@
   "date_format": "mm-dd-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.921283",
+  "modified": "2023-08-29 19:29:24.350069",
   "name": "Canada",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Atikokan\nAmerica/Blanc-Sablon\nAmerica/Cambridge_Bay\nAmerica/Creston\nAmerica/Dawson\nAmerica/Dawson_Creek\nAmerica/Edmonton\nAmerica/Glace_Bay\nAmerica/Goose_Bay\nAmerica/Halifax\nAmerica/Inuvik\nAmerica/Iqaluit\nAmerica/Moncton\nAmerica/Montreal\nAmerica/Nipigon\nAmerica/Pangnirtung\nAmerica/Rainy_River\nAmerica/Rankin_Inlet\nAmerica/Regina\nAmerica/Resolute\nAmerica/St_Johns\nAmerica/Swift_Current\nAmerica/Thunder_Bay\nAmerica/Toronto\nAmerica/Vancouver\nAmerica/Whitehorse\nAmerica/Winnipeg\nAmerica/Yellowknife"
@@ -462,7 +474,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.923582",
+  "modified": "2023-08-29 19:29:24.352534",
   "name": "Cape Verde",
   "time_format": "HH:mm:ss",
   "time_zones": "Atlantic/Cape_Verde"
@@ -474,7 +486,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.925848",
+  "modified": "2023-08-29 19:29:24.354886",
   "name": "Cayman Islands",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Cayman"
@@ -486,7 +498,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.928172",
+  "modified": "2023-08-29 19:29:24.357298",
   "name": "Central African Republic",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Bangui"
@@ -498,7 +510,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.929955",
+  "modified": "2023-08-29 19:29:24.359126",
   "name": "Chad",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Ndjamena"
@@ -510,7 +522,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.931739",
+  "modified": "2023-08-29 19:29:24.360976",
   "name": "Chile",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Santiago\nPacific/Easter"
@@ -522,7 +534,7 @@
   "date_format": "yyyy-mm-dd",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.933965",
+  "modified": "2023-08-29 19:29:24.363324",
   "name": "China",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Chongqing\nAsia/Harbin\nAsia/Kashgar\nAsia/Shanghai\nAsia/Urumqi"
@@ -534,7 +546,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.936221",
+  "modified": "2023-08-29 19:29:24.365762",
   "name": "Christmas Island",
   "time_format": "HH:mm:ss",
   "time_zones": "Indian/Christmas"
@@ -546,7 +558,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.937340",
+  "modified": "2023-08-29 19:29:24.366967",
   "name": "Cocos (Keeling) Islands",
   "time_format": "HH:mm:ss",
   "time_zones": "Indian/Cocos"
@@ -558,7 +570,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.938452",
+  "modified": "2023-08-29 19:29:24.368173",
   "name": "Colombia",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Bogota"
@@ -570,7 +582,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.940703",
+  "modified": "2023-08-29 19:29:24.370599",
   "name": "Comoros",
   "time_format": "HH:mm:ss",
   "time_zones": "Indian/Comoro"
@@ -582,7 +594,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.942938",
+  "modified": "2023-08-29 19:29:24.373015",
   "name": "Congo",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -594,7 +606,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.944732",
+  "modified": "2023-08-29 19:29:24.374849",
   "name": "Congo, The Democratic Republic of the",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -606,7 +618,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.946958",
+  "modified": "2023-08-29 19:29:24.377234",
   "name": "Cook Islands",
   "time_format": "HH:mm:ss",
   "time_zones": "Pacific/Rarotonga"
@@ -618,7 +630,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.948086",
+  "modified": "2023-08-29 19:29:24.378417",
   "name": "Costa Rica",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Costa_Rica"
@@ -630,7 +642,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.950326",
+  "modified": "2023-08-29 19:29:24.380794",
   "name": "Croatia",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Zagreb"
@@ -642,7 +654,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.952584",
+  "modified": "2023-08-29 19:29:24.383133",
   "name": "Cuba",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Havana"
@@ -654,7 +666,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.954828",
+  "modified": "2023-08-29 19:29:24.385547",
   "name": "Cura\u00e7ao",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -666,7 +678,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.955964",
+  "modified": "2023-08-29 19:29:24.386756",
   "name": "Cyprus",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Nicosia"
@@ -678,7 +690,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.958198",
+  "modified": "2023-08-29 19:29:24.389118",
   "name": "Czech Republic",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Prague"
@@ -690,7 +702,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.960439",
+  "modified": "2023-08-29 19:29:24.391474",
   "name": "Denmark",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Copenhagen"
@@ -702,7 +714,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.962668",
+  "modified": "2023-08-29 19:29:24.393822",
   "name": "Djibouti",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Djibouti"
@@ -714,7 +726,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.964922",
+  "modified": "2023-08-29 19:29:24.396200",
   "name": "Dominica",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Dominica"
@@ -726,7 +738,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.966698",
+  "modified": "2023-08-29 19:29:24.398066",
   "name": "Dominican Republic",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Santo_Domingo"
@@ -738,7 +750,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.968949",
+  "modified": "2023-08-29 19:29:24.400435",
   "name": "Ecuador",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Guayaquil\nPacific/Galapagos"
@@ -750,7 +762,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.970066",
+  "modified": "2023-08-29 19:29:24.401617",
   "name": "Egypt",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Cairo"
@@ -762,7 +774,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.972338",
+  "modified": "2023-08-29 19:29:24.403970",
   "name": "El Salvador",
   "time_format": "HH:mm:ss",
   "time_zones": "America/El_Salvador"
@@ -774,7 +786,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.974590",
+  "modified": "2023-08-29 19:29:24.406321",
   "name": "Equatorial Guinea",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Malabo"
@@ -786,7 +798,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.976387",
+  "modified": "2023-08-29 19:29:24.408154",
   "name": "Eritrea",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Asmara"
@@ -798,7 +810,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.978619",
+  "modified": "2023-08-29 19:29:24.410483",
   "name": "Estonia",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Tallinn"
@@ -810,7 +822,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.980413",
+  "modified": "2023-08-29 19:29:24.412312",
   "name": "Ethiopia",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Addis_Ababa"
@@ -822,7 +834,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.982646",
+  "modified": "2023-08-29 19:29:24.414637",
   "name": "Falkland Islands (Malvinas)",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -834,7 +846,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.984894",
+  "modified": "2023-08-29 19:29:24.416994",
   "name": "Faroe Islands",
   "time_format": "HH:mm:ss",
   "time_zones": "Atlantic/Faroe"
@@ -846,7 +858,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.986002",
+  "modified": "2023-08-29 19:29:24.418169",
   "name": "Fiji",
   "time_format": "HH:mm:ss",
   "time_zones": "Pacific/Fiji"
@@ -858,7 +870,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.988277",
+  "modified": "2023-08-29 19:29:24.420557",
   "name": "Finland",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Helsinki"
@@ -870,7 +882,7 @@
   "date_format": "dd/mm/yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.990044",
+  "modified": "2023-08-29 19:29:24.422361",
   "name": "France",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Paris"
@@ -882,7 +894,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.991825",
+  "modified": "2023-08-29 19:29:24.424187",
   "name": "French Guiana",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Cayenne"
@@ -894,7 +906,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.992937",
+  "modified": "2023-08-29 19:29:24.425361",
   "name": "French Polynesia",
   "time_format": "HH:mm:ss",
   "time_zones": "Pacific/Gambier\nPacific/Marquesas\nPacific/Tahiti"
@@ -906,7 +918,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.994072",
+  "modified": "2023-08-29 19:29:24.426539",
   "name": "French Southern Territories",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -918,7 +930,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.995201",
+  "modified": "2023-08-29 19:29:24.427733",
   "name": "Gabon",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Libreville"
@@ -930,7 +942,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.997270",
+  "modified": "2023-08-29 19:29:24.429535",
   "name": "Gambia",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Banjul"
@@ -942,7 +954,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:53.999525",
+  "modified": "2023-08-29 19:29:24.431877",
   "name": "Georgia",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Tbilisi"
@@ -954,7 +966,7 @@
   "date_format": "dd.mm.yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.000639",
+  "modified": "2023-08-29 19:29:24.433052",
   "name": "Germany",
   "time_format": "HH:mm",
   "time_zones": "Europe/Berlin"
@@ -966,7 +978,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.002418",
+  "modified": "2023-08-29 19:29:24.434866",
   "name": "Ghana",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Accra"
@@ -978,7 +990,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.004725",
+  "modified": "2023-08-29 19:29:24.437211",
   "name": "Gibraltar",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Gibraltar"
@@ -990,7 +1002,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.006969",
+  "modified": "2023-08-29 19:29:24.439548",
   "name": "Greece",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Athens"
@@ -1002,7 +1014,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.008760",
+  "modified": "2023-08-29 19:29:24.441363",
   "name": "Greenland",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Danmarkshavn\nAmerica/Godthab\nAmerica/Scoresbysund\nAmerica/Thule"
@@ -1014,7 +1026,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.009879",
+  "modified": "2023-08-29 19:29:24.442548",
   "name": "Grenada",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Grenada"
@@ -1026,7 +1038,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.011712",
+  "modified": "2023-08-29 19:29:24.444391",
   "name": "Guadeloupe",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Guadeloupe"
@@ -1038,7 +1050,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.012841",
+  "modified": "2023-08-29 19:29:24.445604",
   "name": "Guam",
   "time_format": "HH:mm:ss",
   "time_zones": "Pacific/Guam"
@@ -1050,7 +1062,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.013957",
+  "modified": "2023-08-29 19:29:24.446794",
   "name": "Guatemala",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Guatemala"
@@ -1062,7 +1074,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.016226",
+  "modified": "2023-08-29 19:29:24.449153",
   "name": "Guernsey",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/London"
@@ -1074,7 +1086,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.017344",
+  "modified": "2023-08-29 19:29:24.450327",
   "name": "Guinea",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Conakry"
@@ -1086,7 +1098,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.019571",
+  "modified": "2023-08-29 19:29:24.452720",
   "name": "Guinea-Bissau",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Bissau"
@@ -1098,7 +1110,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.021336",
+  "modified": "2023-08-29 19:29:24.454541",
   "name": "Guyana",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Guyana"
@@ -1110,7 +1122,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.023598",
+  "modified": "2023-08-29 19:29:24.456954",
   "name": "Haiti",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Guatemala\nAmerica/Port-au-Prince"
@@ -1122,7 +1134,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.025822",
+  "modified": "2023-08-29 19:29:24.459310",
   "name": "Heard Island and McDonald Islands",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -1134,7 +1146,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.026937",
+  "modified": "2023-08-29 19:29:24.460522",
   "name": "Holy See (Vatican City State)",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -1146,7 +1158,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.028081",
+  "modified": "2023-08-29 19:29:24.461707",
   "name": "Honduras",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Tegucigalpa"
@@ -1158,7 +1170,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.030308",
+  "modified": "2023-08-29 19:29:24.464104",
   "name": "Hong Kong",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Hong_Kong"
@@ -1170,7 +1182,7 @@
   "date_format": "yyyy-mm-dd",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.032544",
+  "modified": "2023-08-29 19:29:24.466473",
   "name": "Hungary",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Budapest"
@@ -1182,22 +1194,10 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.034764",
+  "modified": "2023-08-29 19:29:24.468868",
   "name": "Iceland",
   "time_format": "HH:mm:ss",
   "time_zones": "Atlantic/Reykjavik"
- },
- {
-  "code": "in",
-  "country_name": "India",
-  "currency": "USD",
-  "date_format": "dd-mm-yyyy",
-  "docstatus": 0,
-  "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.037013",
-  "name": "India",
-  "time_format": "HH:mm:ss",
-  "time_zones": "Asia/Kolkata"
  },
  {
   "code": "id",
@@ -1206,7 +1206,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.039284",
+  "modified": "2023-08-29 19:29:24.473573",
   "name": "Indonesia",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Jakarta\nAsia/Jayapura\nAsia/Makassar\nAsia/Pontianak"
@@ -1218,7 +1218,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.041513",
+  "modified": "2023-08-29 19:29:24.475969",
   "name": "Iran",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Tehran"
@@ -1230,7 +1230,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.043783",
+  "modified": "2023-08-29 19:29:24.478309",
   "name": "Iraq",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Baghdad"
@@ -1242,7 +1242,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.046047",
+  "modified": "2023-08-29 19:29:24.480681",
   "name": "Ireland",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Dublin"
@@ -1254,7 +1254,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.047873",
+  "modified": "2023-08-29 19:29:24.482497",
   "name": "Isle of Man",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/London"
@@ -1266,7 +1266,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.049014",
+  "modified": "2023-08-29 19:29:24.483673",
   "name": "Israel",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Jerusalem"
@@ -1278,7 +1278,7 @@
   "date_format": "dd/mm/yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.051278",
+  "modified": "2023-08-29 19:29:24.486019",
   "name": "Italy",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Rome"
@@ -1290,7 +1290,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.053064",
+  "modified": "2023-08-29 19:29:24.487901",
   "name": "Ivory Coast",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -1302,7 +1302,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.054845",
+  "modified": "2023-08-29 19:29:24.489718",
   "name": "Jamaica",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Jamaica"
@@ -1314,7 +1314,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.057112",
+  "modified": "2023-08-29 19:29:24.492124",
   "name": "Japan",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Tokyo"
@@ -1326,7 +1326,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.059392",
+  "modified": "2023-08-29 19:29:24.494467",
   "name": "Jersey",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/London"
@@ -1338,7 +1338,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.060531",
+  "modified": "2023-08-29 19:29:24.495649",
   "name": "Jordan",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Amman"
@@ -1350,7 +1350,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.062805",
+  "modified": "2023-08-29 19:29:24.497983",
   "name": "Kazakhstan",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Almaty\nAsia/Aqtau\nAsia/Aqtobe\nAsia/Oral\nAsia/Qyzylorda"
@@ -1362,7 +1362,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.065149",
+  "modified": "2023-08-29 19:29:24.500363",
   "name": "Kenya",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Nairobi"
@@ -1374,7 +1374,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.067427",
+  "modified": "2023-08-29 19:29:24.502693",
   "name": "Kiribati",
   "time_format": "HH:mm:ss",
   "time_zones": "Pacific/Enderbury\nPacific/Kiritimati\nPacific/Tarawa"
@@ -1386,7 +1386,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.072804",
+  "modified": "2023-08-29 19:29:24.509175",
   "name": "Korea, Democratic Peoples Republic of",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -1398,7 +1398,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.075093",
+  "modified": "2023-08-29 19:29:24.511560",
   "name": "Korea, Republic of",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -1410,7 +1410,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.077344",
+  "modified": "2023-08-29 19:29:24.513912",
   "name": "Kuwait",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Kuwait"
@@ -1422,7 +1422,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.079711",
+  "modified": "2023-08-29 19:29:24.516274",
   "name": "Kyrgyzstan",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Bishkek"
@@ -1434,7 +1434,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.082063",
+  "modified": "2023-08-29 19:29:24.518611",
   "name": "Lao Peoples Democratic Republic",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Vientiane"
@@ -1446,7 +1446,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.084477",
+  "modified": "2023-08-29 19:29:24.521007",
   "name": "Latvia",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Riga"
@@ -1458,7 +1458,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.086860",
+  "modified": "2023-08-29 19:29:24.523415",
   "name": "Lebanon",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Beirut"
@@ -1470,7 +1470,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.089137",
+  "modified": "2023-08-29 19:29:24.525787",
   "name": "Lesotho",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Maseru"
@@ -1482,7 +1482,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.091451",
+  "modified": "2023-08-29 19:29:24.528146",
   "name": "Liberia",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Monrovia"
@@ -1494,7 +1494,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.093733",
+  "modified": "2023-08-29 19:29:24.530481",
   "name": "Libya",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Tripoli"
@@ -1506,7 +1506,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.096013",
+  "modified": "2023-08-29 19:29:24.532830",
   "name": "Liechtenstein",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Vaduz"
@@ -1518,7 +1518,7 @@
   "date_format": "yyyy-mm-dd",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.097146",
+  "modified": "2023-08-29 19:29:24.534006",
   "name": "Lithuania",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Vilnius"
@@ -1530,7 +1530,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.099547",
+  "modified": "2023-08-29 19:29:24.536367",
   "name": "Luxembourg",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Luxembourg"
@@ -1542,7 +1542,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.101400",
+  "modified": "2023-08-29 19:29:24.538233",
   "name": "Macao",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -1554,7 +1554,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.103686",
+  "modified": "2023-08-29 19:29:24.540589",
   "name": "Macedonia",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -1566,7 +1566,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.106000",
+  "modified": "2023-08-29 19:29:24.542904",
   "name": "Madagascar",
   "time_format": "HH:mm:ss",
   "time_zones": "Indian/Antananarivo"
@@ -1578,7 +1578,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.107164",
+  "modified": "2023-08-29 19:29:24.544096",
   "name": "Malawi",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Blantyre"
@@ -1590,7 +1590,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.109422",
+  "modified": "2023-08-29 19:29:24.546429",
   "name": "Malaysia",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Kuala_Lumpur\nAsia/Kuching"
@@ -1602,7 +1602,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.111704",
+  "modified": "2023-08-29 19:29:24.548785",
   "name": "Maldives",
   "time_format": "HH:mm:ss",
   "time_zones": "Indian/Maldives"
@@ -1614,7 +1614,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.114043",
+  "modified": "2023-08-29 19:29:24.551116",
   "name": "Mali",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Bamako"
@@ -1626,7 +1626,7 @@
   "date_format": "dd/mm/yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.115891",
+  "modified": "2023-08-29 19:29:24.552949",
   "name": "Malta",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Malta"
@@ -1638,7 +1638,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.117767",
+  "modified": "2023-08-29 19:29:24.554769",
   "name": "Marshall Islands",
   "time_format": "HH:mm:ss",
   "time_zones": "Pacific/Kwajalein\nPacific/Majuro"
@@ -1650,7 +1650,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.118913",
+  "modified": "2023-08-29 19:29:24.556010",
   "name": "Martinique",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Martinique"
@@ -1662,7 +1662,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.120120",
+  "modified": "2023-08-29 19:29:24.557225",
   "name": "Mauritania",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Nouakchott"
@@ -1674,7 +1674,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.122422",
+  "modified": "2023-08-29 19:29:24.559625",
   "name": "Mauritius",
   "time_format": "HH:mm:ss",
   "time_zones": "Indian/Mauritius"
@@ -1686,7 +1686,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.124707",
+  "modified": "2023-08-29 19:29:24.562039",
   "name": "Mayotte",
   "time_format": "HH:mm:ss",
   "time_zones": "Indian/Mayotte"
@@ -1698,7 +1698,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.125848",
+  "modified": "2023-08-29 19:29:24.563236",
   "name": "Mexico",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Bahia_Banderas\nAmerica/Cancun\nAmerica/Chihuahua\nAmerica/Hermosillo\nAmerica/Matamoros\nAmerica/Mazatlan\nAmerica/Merida\nAmerica/Mexico_City\nAmerica/Monterrey\nAmerica/Ojinaga\nAmerica/Santa_Isabel\nAmerica/Tijuana"
@@ -1710,7 +1710,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.128138",
+  "modified": "2023-08-29 19:29:24.565638",
   "name": "Micronesia, Federated States of",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -1722,7 +1722,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.129421",
+  "modified": "2023-08-29 19:29:24.566820",
   "name": "Moldova, Republic of",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -1734,7 +1734,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.131696",
+  "modified": "2023-08-29 19:29:24.569217",
   "name": "Monaco",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Monaco"
@@ -1746,7 +1746,7 @@
   "date_format": "yyyy-mm-dd",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.133494",
+  "modified": "2023-08-29 19:29:24.571059",
   "name": "Mongolia",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Choibalsan\nAsia/Hovd\nAsia/Ulaanbaatar"
@@ -1758,7 +1758,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.135778",
+  "modified": "2023-08-29 19:29:24.573436",
   "name": "Montenegro",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Belgrade"
@@ -1770,7 +1770,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.137581",
+  "modified": "2023-08-29 19:29:24.575252",
   "name": "Montserrat",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Montserrat"
@@ -1782,7 +1782,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.139394",
+  "modified": "2023-08-29 19:29:24.577082",
   "name": "Morocco",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Casablanca"
@@ -1794,7 +1794,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.141655",
+  "modified": "2023-08-29 19:29:24.579439",
   "name": "Mozambique",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Maputo"
@@ -1806,7 +1806,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.143911",
+  "modified": "2023-08-29 19:29:24.581800",
   "name": "Myanmar",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Rangoon"
@@ -1818,7 +1818,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.146182",
+  "modified": "2023-08-29 19:29:24.584164",
   "name": "Namibia",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Windhoek"
@@ -1830,7 +1830,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.148655",
+  "modified": "2023-08-29 19:29:24.586637",
   "name": "Nauru",
   "time_format": "HH:mm:ss",
   "time_zones": "Pacific/Nauru"
@@ -1842,7 +1842,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.149803",
+  "modified": "2023-08-29 19:29:24.587887",
   "name": "Nepal",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Kathmandu"
@@ -1854,7 +1854,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.152062",
+  "modified": "2023-08-29 19:29:24.590311",
   "name": "Netherlands",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Amsterdam"
@@ -1866,7 +1866,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.153886",
+  "modified": "2023-08-29 19:29:24.592238",
   "name": "New Caledonia",
   "time_format": "HH:mm:ss",
   "time_zones": "Pacific/Noumea"
@@ -1878,7 +1878,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.155024",
+  "modified": "2023-08-29 19:29:24.593466",
   "name": "New Zealand",
   "time_format": "HH:mm:ss",
   "time_zones": "Pacific/Auckland\nPacific/Chatham"
@@ -1890,7 +1890,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.157283",
+  "modified": "2023-08-29 19:29:24.595982",
   "name": "Nicaragua",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Managua"
@@ -1902,7 +1902,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.159665",
+  "modified": "2023-08-29 19:29:24.598340",
   "name": "Niger",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Niamey"
@@ -1914,7 +1914,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.161513",
+  "modified": "2023-08-29 19:29:24.600174",
   "name": "Nigeria",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Lagos"
@@ -1926,7 +1926,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.163785",
+  "modified": "2023-08-29 19:29:24.602514",
   "name": "Niue",
   "time_format": "HH:mm:ss",
   "time_zones": "Pacific/Niue"
@@ -1938,7 +1938,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.164910",
+  "modified": "2023-08-29 19:29:24.603710",
   "name": "Norfolk Island",
   "time_format": "HH:mm:ss",
   "time_zones": "Pacific/Norfolk"
@@ -1950,7 +1950,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.166037",
+  "modified": "2023-08-29 19:29:24.604889",
   "name": "Northern Mariana Islands",
   "time_format": "HH:mm:ss",
   "time_zones": "Pacific/Saipan"
@@ -1962,7 +1962,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.167213",
+  "modified": "2023-08-29 19:29:24.606068",
   "name": "Norway",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Oslo"
@@ -1974,7 +1974,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.169512",
+  "modified": "2023-08-29 19:29:24.608422",
   "name": "Oman",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Muscat"
@@ -1986,7 +1986,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.171780",
+  "modified": "2023-08-29 19:29:24.610766",
   "name": "Pakistan",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Karachi"
@@ -1998,7 +1998,7 @@
   "date_format": "mm-dd-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.174020",
+  "modified": "2023-08-29 19:29:24.613124",
   "name": "Palau",
   "time_format": "HH:mm:ss",
   "time_zones": "Pacific/Palau"
@@ -2010,7 +2010,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.175168",
+  "modified": "2023-08-29 19:29:24.614304",
   "name": "Palestinian Territory, Occupied",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -2022,7 +2022,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.176300",
+  "modified": "2023-08-29 19:29:24.615493",
   "name": "Panama",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Panama"
@@ -2034,7 +2034,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.177526",
+  "modified": "2023-08-29 19:29:24.616675",
   "name": "Papua New Guinea",
   "time_format": "HH:mm:ss",
   "time_zones": "Pacific/Port_Moresby"
@@ -2046,7 +2046,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.180289",
+  "modified": "2023-08-29 19:29:24.619007",
   "name": "Paraguay",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Asuncion"
@@ -2058,7 +2058,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.182582",
+  "modified": "2023-08-29 19:29:24.621356",
   "name": "Peru",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Lima"
@@ -2070,7 +2070,7 @@
   "date_format": "mm-dd-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.184937",
+  "modified": "2023-08-29 19:29:24.623702",
   "name": "Philippines",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Manila"
@@ -2082,7 +2082,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.187298",
+  "modified": "2023-08-29 19:29:24.626115",
   "name": "Pitcairn",
   "time_format": "HH:mm:ss",
   "time_zones": "Pacific/Pitcairn"
@@ -2094,7 +2094,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.188449",
+  "modified": "2023-08-29 19:29:24.627305",
   "name": "Poland",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Warsaw"
@@ -2106,7 +2106,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.190693",
+  "modified": "2023-08-29 19:29:24.629731",
   "name": "Portugal",
   "time_format": "HH:mm:ss",
   "time_zones": "Atlantic/Azores\nAtlantic/Madeira\nEurope/Lisbon"
@@ -2118,7 +2118,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.192504",
+  "modified": "2023-08-29 19:29:24.631568",
   "name": "Puerto Rico",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Puerto_Rico"
@@ -2130,7 +2130,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.193627",
+  "modified": "2023-08-29 19:29:24.632747",
   "name": "Qatar",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Qatar"
@@ -2142,7 +2142,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.195880",
+  "modified": "2023-08-29 19:29:24.635085",
   "name": "Romania",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Bucharest"
@@ -2154,7 +2154,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.198105",
+  "modified": "2023-08-29 19:29:24.637434",
   "name": "Russian Federation",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -2166,7 +2166,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.200351",
+  "modified": "2023-08-29 19:29:24.639804",
   "name": "Rwanda",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Kigali"
@@ -2178,7 +2178,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.202575",
+  "modified": "2023-08-29 19:29:24.642176",
   "name": "R\u00e9union",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -2190,7 +2190,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.203733",
+  "modified": "2023-08-29 19:29:24.643387",
   "name": "Saint Barth\u00e9lemy",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -2202,7 +2202,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.204864",
+  "modified": "2023-08-29 19:29:24.644566",
   "name": "Saint Helena, Ascension and Tristan da Cunha",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -2214,7 +2214,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.211121",
+  "modified": "2023-08-29 19:29:24.651086",
   "name": "Saint Kitts and Nevis",
   "time_format": "HH:mm:ss",
   "time_zones": "America/St_Kitts"
@@ -2226,7 +2226,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.212915",
+  "modified": "2023-08-29 19:29:24.652928",
   "name": "Saint Lucia",
   "time_format": "HH:mm:ss",
   "time_zones": "America/St_Lucia"
@@ -2238,7 +2238,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.214703",
+  "modified": "2023-08-29 19:29:24.654739",
   "name": "Saint Martin (French part)",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -2250,7 +2250,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.215858",
+  "modified": "2023-08-29 19:29:24.655939",
   "name": "Saint Pierre and Miquelon",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -2262,7 +2262,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.216987",
+  "modified": "2023-08-29 19:29:24.657138",
   "name": "Saint Vincent and the Grenadines",
   "time_format": "HH:mm:ss",
   "time_zones": "America/St_Vincent"
@@ -2274,7 +2274,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.218763",
+  "modified": "2023-08-29 19:29:24.658961",
   "name": "Samoa",
   "time_format": "HH:mm:ss",
   "time_zones": "Pacific/Apia"
@@ -2286,7 +2286,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.221021",
+  "modified": "2023-08-29 19:29:24.661377",
   "name": "San Marino",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Rome"
@@ -2298,7 +2298,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.222823",
+  "modified": "2023-08-29 19:29:24.663240",
   "name": "Sao Tome and Principe",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -2310,7 +2310,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.225084",
+  "modified": "2023-08-29 19:29:24.665617",
   "name": "Saudi Arabia",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Riyadh"
@@ -2322,7 +2322,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.227364",
+  "modified": "2023-08-29 19:29:24.668012",
   "name": "Senegal",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Dakar"
@@ -2334,7 +2334,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.229161",
+  "modified": "2023-08-29 19:29:24.669834",
   "name": "Serbia",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Belgrade"
@@ -2346,7 +2346,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.231433",
+  "modified": "2023-08-29 19:29:24.672187",
   "name": "Seychelles",
   "time_format": "HH:mm:ss",
   "time_zones": "Indian/Mahe"
@@ -2358,7 +2358,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.233680",
+  "modified": "2023-08-29 19:29:24.674546",
   "name": "Sierra Leone",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Freetown"
@@ -2370,7 +2370,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.235938",
+  "modified": "2023-08-29 19:29:24.676899",
   "name": "Singapore",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Singapore"
@@ -2382,7 +2382,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.238176",
+  "modified": "2023-08-29 19:29:24.679244",
   "name": "Sint Maarten (Dutch part)",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -2394,7 +2394,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.239306",
+  "modified": "2023-08-29 19:29:24.680437",
   "name": "Slovakia",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Bratislava"
@@ -2406,7 +2406,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.241095",
+  "modified": "2023-08-29 19:29:24.682246",
   "name": "Slovenia",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Belgrade"
@@ -2418,7 +2418,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.242875",
+  "modified": "2023-08-29 19:29:24.684087",
   "name": "Solomon Islands",
   "time_format": "HH:mm:ss",
   "time_zones": "Pacific/Guadalcanal"
@@ -2430,7 +2430,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.245128",
+  "modified": "2023-08-29 19:29:24.686418",
   "name": "Somalia",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Mogadishu"
@@ -2442,7 +2442,7 @@
   "date_format": "yyyy-mm-dd",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.247378",
+  "modified": "2023-08-29 19:29:24.688832",
   "name": "South Africa",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Johannesburg"
@@ -2454,7 +2454,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.249624",
+  "modified": "2023-08-29 19:29:24.691229",
   "name": "South Georgia and the South Sandwich Islands",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -2466,7 +2466,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.250761",
+  "modified": "2023-08-29 19:29:24.692426",
   "name": "South Sudan",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Juba"
@@ -2478,7 +2478,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.251919",
+  "modified": "2023-08-29 19:29:24.693601",
   "name": "Spain",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Ceuta\nAtlantic/Canary\nEurope/Madrid"
@@ -2490,7 +2490,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.253686",
+  "modified": "2023-08-29 19:29:24.695433",
   "name": "Sri Lanka",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Colombo"
@@ -2502,7 +2502,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.255923",
+  "modified": "2023-08-29 19:29:24.697808",
   "name": "Sudan",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Khartoum"
@@ -2514,7 +2514,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.257036",
+  "modified": "2023-08-29 19:29:24.699026",
   "name": "Suriname",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Paramaribo"
@@ -2526,7 +2526,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.259264",
+  "modified": "2023-08-29 19:29:24.701408",
   "name": "Svalbard and Jan Mayen",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -2538,7 +2538,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.260382",
+  "modified": "2023-08-29 19:29:24.702595",
   "name": "Swaziland",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Mbabane"
@@ -2550,7 +2550,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.262599",
+  "modified": "2023-08-29 19:29:24.704946",
   "name": "Sweden",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Stockholm"
@@ -2562,7 +2562,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.264845",
+  "modified": "2023-08-29 19:29:24.707288",
   "name": "Switzerland",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Zurich"
@@ -2574,7 +2574,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.267078",
+  "modified": "2023-08-29 19:29:24.709658",
   "name": "Syria",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -2586,7 +2586,7 @@
   "date_format": "yyyy-mm-dd",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.269298",
+  "modified": "2023-08-29 19:29:24.712007",
   "name": "Taiwan",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -2598,7 +2598,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.271544",
+  "modified": "2023-08-29 19:29:24.714336",
   "name": "Tajikistan",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Dushanbe"
@@ -2610,7 +2610,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.272655",
+  "modified": "2023-08-29 19:29:24.715521",
   "name": "Tanzania",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -2622,7 +2622,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.274863",
+  "modified": "2023-08-29 19:29:24.717857",
   "name": "Thailand",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Bangkok"
@@ -2634,7 +2634,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.277117",
+  "modified": "2023-08-29 19:29:24.720249",
   "name": "Timor-Leste",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -2646,7 +2646,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.278232",
+  "modified": "2023-08-29 19:29:24.721427",
   "name": "Togo",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Lome"
@@ -2658,7 +2658,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.280006",
+  "modified": "2023-08-29 19:29:24.723242",
   "name": "Tokelau",
   "time_format": "HH:mm:ss",
   "time_zones": "Pacific/Fakaofo"
@@ -2670,7 +2670,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.281126",
+  "modified": "2023-08-29 19:29:24.724432",
   "name": "Tonga",
   "time_format": "HH:mm:ss",
   "time_zones": "Pacific/Tongatapu"
@@ -2682,7 +2682,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.283371",
+  "modified": "2023-08-29 19:29:24.726770",
   "name": "Trinidad and Tobago",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Port_of_Spain"
@@ -2694,7 +2694,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.285599",
+  "modified": "2023-08-29 19:29:24.729151",
   "name": "Tunisia",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Tunis"
@@ -2706,7 +2706,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.287844",
+  "modified": "2023-08-29 19:29:24.731531",
   "name": "Turkey",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Istanbul"
@@ -2718,7 +2718,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.290087",
+  "modified": "2023-08-29 19:29:24.733920",
   "name": "Turkmenistan",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Ashgabat"
@@ -2730,7 +2730,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.292328",
+  "modified": "2023-08-29 19:29:24.736366",
   "name": "Turks and Caicos Islands",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -2742,7 +2742,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.293449",
+  "modified": "2023-08-29 19:29:24.737578",
   "name": "Tuvalu",
   "time_format": "HH:mm:ss",
   "time_zones": "Pacific/Funafuti"
@@ -2754,7 +2754,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.294569",
+  "modified": "2023-08-29 19:29:24.738785",
   "name": "Uganda",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Kampala"
@@ -2766,7 +2766,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.296814",
+  "modified": "2023-08-29 19:29:24.741208",
   "name": "Ukraine",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/Kiev\nEurope/Simferopol\nEurope/Uzhgorod\nEurope/Zaporozhye"
@@ -2778,7 +2778,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.299043",
+  "modified": "2023-08-29 19:29:24.743581",
   "name": "United Arab Emirates",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Dubai"
@@ -2790,7 +2790,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.301303",
+  "modified": "2023-08-29 19:29:24.745959",
   "name": "United Kingdom",
   "time_format": "HH:mm:ss",
   "time_zones": "Europe/London"
@@ -2802,7 +2802,7 @@
   "date_format": "mm-dd-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.303555",
+  "modified": "2023-08-29 19:29:24.748342",
   "name": "United States",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Adak\nAmerica/Anchorage\nAmerica/Boise\nAmerica/Chicago\nAmerica/Denver\nAmerica/Detroit\nAmerica/Indiana/Indianapolis\nAmerica/Indiana/Knox\nAmerica/Indiana/Marengo\nAmerica/Indiana/Petersburg\nAmerica/Indiana/Tell_City\nAmerica/Indiana/Vevay\nAmerica/Indiana/Vincennes\nAmerica/Indiana/Winamac\nAmerica/Juneau\nAmerica/Kentucky/Louisville\nAmerica/Kentucky/Monticello\nAmerica/Los_Angeles\nAmerica/Menominee\nAmerica/Metlakatla\nAmerica/New_York\nAmerica/Nome\nAmerica/North_Dakota/Beulah\nAmerica/North_Dakota/Center\nAmerica/North_Dakota/New_Salem\nAmerica/Phoenix\nAmerica/Denver\nAmerica/Sitka\nAmerica/Yakutat\nPacific/Honolulu"
@@ -2814,7 +2814,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.305371",
+  "modified": "2023-08-29 19:29:24.750206",
   "name": "United States Minor Outlying Islands",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -2826,7 +2826,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.306494",
+  "modified": "2023-08-29 19:29:24.751398",
   "name": "Uruguay",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Montevideo"
@@ -2838,7 +2838,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.308753",
+  "modified": "2023-08-29 19:29:24.753743",
   "name": "Uzbekistan",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Samarkand\nAsia/Tashkent"
@@ -2850,7 +2850,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.310993",
+  "modified": "2023-08-29 19:29:24.756117",
   "name": "Vanuatu",
   "time_format": "HH:mm:ss",
   "time_zones": "Pacific/Efate"
@@ -2862,7 +2862,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.313235",
+  "modified": "2023-08-29 19:29:24.758491",
   "name": "Venezuela, Bolivarian Republic of",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -2874,7 +2874,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.319560",
+  "modified": "2023-08-29 19:29:24.764732",
   "name": "Vietnam",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -2886,7 +2886,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.321834",
+  "modified": "2023-08-29 19:29:24.767162",
   "name": "Virgin Islands, British",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -2898,7 +2898,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.322962",
+  "modified": "2023-08-29 19:29:24.768413",
   "name": "Virgin Islands, U.S.",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -2910,7 +2910,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.324106",
+  "modified": "2023-08-29 19:29:24.769669",
   "name": "Wallis and Futuna",
   "time_format": "HH:mm:ss",
   "time_zones": ""
@@ -2922,7 +2922,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.325233",
+  "modified": "2023-08-29 19:29:24.770887",
   "name": "Western Sahara",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/El_Aaiun"
@@ -2934,7 +2934,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.326358",
+  "modified": "2023-08-29 19:29:24.772125",
   "name": "Yemen",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Aden"
@@ -2946,7 +2946,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.328606",
+  "modified": "2023-08-29 19:29:24.774485",
   "name": "Zambia",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Lusaka"
@@ -2958,7 +2958,7 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.330845",
+  "modified": "2023-08-29 19:29:24.776854",
   "name": "Zimbabwe",
   "time_format": "HH:mm:ss",
   "time_zones": "Africa/Harare"
@@ -2970,21 +2970,21 @@
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-14 11:29:54.333100",
+  "modified": "2023-08-29 19:29:24.779192",
   "name": "\u00c5land Islands",
   "time_format": "HH:mm:ss",
   "time_zones": ""
  },
  {
-  "code": "au",
-  "country_name": "Australia",
-  "currency": "AUD",
+  "code": "in",
+  "country_name": "India",
+  "currency": "USD",
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-09-15 20:42:28.121371",
-  "name": "Australia",
+  "modified": "2023-08-29 19:29:24.471218",
+  "name": "India",
   "time_format": "HH:mm:ss",
-  "time_zones": "Australia/Adelaide\nAustralia/Brisbane\nAustralia/Broken_Hill\nAustralia/Currie\nAustralia/Darwin\nAustralia/Eucla\nAustralia/Hobart\nAustralia/Lindeman\nAustralia/Lord_Howe\nAustralia/Melbourne\nAustralia/Perth\nAustralia/Sydney"
+  "time_zones": "Asia/Kolkata"
  }
 ]
