@@ -1,5 +1,17 @@
 [
  {
+  "code": null,
+  "country_name": "_Test Country",
+  "currency": "USD",
+  "date_format": null,
+  "docstatus": 0,
+  "doctype": "Country",
+  "modified": "2023-10-31 17:26:50.672621",
+  "name": "_Test Country",
+  "time_format": "HH:mm:ss",
+  "time_zones": null
+ },
+ {
   "code": "af",
   "country_name": "Afghanistan",
   "currency": "USD",
