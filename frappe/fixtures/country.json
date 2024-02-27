@@ -1178,11 +1178,11 @@
  {
   "code": "hk",
   "country_name": "Hong Kong",
-  "currency": "USD",
+  "currency": "HKD",
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-08-29 19:29:24.464104",
+  "modified": "2023-12-22 16:19:51.070022",
   "name": "Hong Kong",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Hong_Kong"
