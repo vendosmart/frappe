@@ -29,14 +29,12 @@
   {
    "fieldname": "date_format",
    "fieldtype": "Data",
-   "in_list_view": 1,
    "label": "Date Format"
   },
   {
    "default": "HH:mm:ss",
    "fieldname": "time_format",
    "fieldtype": "Data",
-   "in_list_view": 1,
    "label": "Time format"
   },
   {
@@ -55,6 +53,8 @@
    "default": "USD",
    "fieldname": "currency",
    "fieldtype": "Link",
+   "in_list_view": 1,
+   "in_preview": 1,
    "label": "Currency",
    "options": "Currency"
   }
@@ -62,7 +62,7 @@
  "icon": "fa fa-globe",
  "idx": 1,
  "links": [],
- "modified": "2023-07-10 20:13:52.925546",
+ "modified": "2024-04-02 15:57:03.013388",
  "modified_by": "Administrator",
  "module": "Geo",
  "name": "Country",

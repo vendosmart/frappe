@@ -470,11 +470,11 @@
  {
   "code": "ca",
   "country_name": "Canada",
-  "currency": "USD",
+  "currency": "CAD",
   "date_format": "mm-dd-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-08-29 19:29:24.350069",
+  "modified": "2024-04-02 16:42:23.668571",
   "name": "Canada",
   "time_format": "HH:mm:ss",
   "time_zones": "America/Atikokan\nAmerica/Blanc-Sablon\nAmerica/Cambridge_Bay\nAmerica/Creston\nAmerica/Dawson\nAmerica/Dawson_Creek\nAmerica/Edmonton\nAmerica/Glace_Bay\nAmerica/Goose_Bay\nAmerica/Halifax\nAmerica/Inuvik\nAmerica/Iqaluit\nAmerica/Moncton\nAmerica/Montreal\nAmerica/Nipigon\nAmerica/Pangnirtung\nAmerica/Rainy_River\nAmerica/Rankin_Inlet\nAmerica/Regina\nAmerica/Resolute\nAmerica/St_Johns\nAmerica/Swift_Current\nAmerica/Thunder_Bay\nAmerica/Toronto\nAmerica/Vancouver\nAmerica/Whitehorse\nAmerica/Winnipeg\nAmerica/Yellowknife"
@@ -1322,11 +1322,11 @@
  {
   "code": "jp",
   "country_name": "Japan",
-  "currency": "USD",
+  "currency": "JPY",
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-08-29 19:29:24.492124",
+  "modified": "2024-04-02 16:42:08.160399",
   "name": "Japan",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Tokyo"
@@ -2990,11 +2990,11 @@
  {
   "code": "in",
   "country_name": "India",
-  "currency": "USD",
+  "currency": "INR",
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-08-29 19:29:24.471218",
+  "modified": "2024-04-02 17:50:17.843631",
   "name": "India",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Kolkata"
