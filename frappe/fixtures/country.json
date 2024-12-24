@@ -1610,11 +1610,11 @@
  {
   "code": "mv",
   "country_name": "Maldives",
-  "currency": "USD",
+  "currency": "MVR",
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-08-29 19:29:24.548785",
+  "modified": "2024-11-25 20:23:50.321368",
   "name": "Maldives",
   "time_format": "HH:mm:ss",
   "time_zones": "Indian/Maldives"
@@ -2786,11 +2786,11 @@
  {
   "code": "ae",
   "country_name": "United Arab Emirates",
-  "currency": "USD",
+  "currency": "AED",
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-08-29 19:29:24.743581",
+  "modified": "2024-08-02 08:59:02.874493",
   "name": "United Arab Emirates",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Dubai"
