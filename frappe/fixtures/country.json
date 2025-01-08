@@ -2990,11 +2990,11 @@
  {
   "code": "in",
   "country_name": "India",
-  "currency": "USD",
+  "currency": "INR",
   "date_format": "dd-mm-yyyy",
   "docstatus": 0,
   "doctype": "Country",
-  "modified": "2023-08-29 19:29:24.471218",
+  "modified": "2025-01-08 11:34:56.081546",
   "name": "India",
   "time_format": "HH:mm:ss",
   "time_zones": "Asia/Kolkata"
