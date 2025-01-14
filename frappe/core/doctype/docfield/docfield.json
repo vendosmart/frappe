@@ -73,7 +73,8 @@
   "description",
   "documentation_url",
   "oldfieldname",
-  "oldfieldtype"
+  "oldfieldtype",
+  "formly_fields"
  ],
  "fields": [
   {
@@ -558,13 +559,18 @@
    "fieldname": "sort_options",
    "fieldtype": "Check",
    "label": "Sort Options"
+  },
+  {
+   "fieldname": "formly_fields",
+   "fieldtype": "Data",
+   "label": "Formly Fields"
   }
  ],
  "idx": 1,
  "index_web_pages_for_search": 1,
  "istable": 1,
  "links": [],
- "modified": "2023-06-08 19:05:10.778371",
+ "modified": "2025-01-11 08:48:53.318439",
  "modified_by": "Administrator",
  "module": "Core",
  "name": "DocField",
