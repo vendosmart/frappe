@@ -88,7 +88,8 @@
   "website_search_field",
   "advanced",
   "engine",
-  "migration_hash"
+  "migration_hash",
+  "additional_fields"
  ],
  "fields": [
   {
@@ -627,6 +628,11 @@
    "fieldname": "is_calendar_and_gantt",
    "fieldtype": "Check",
    "label": "Is Calendar and Gantt"
+  },
+  {
+   "fieldname": "additional_fields",
+   "fieldtype": "JSON",
+   "label": "Additional Fields"
   }
  ],
  "icon": "fa fa-bolt",
@@ -709,7 +715,7 @@
    "link_fieldname": "reference_doctype"
   }
  ],
- "modified": "2022-10-12 14:13:27.315351",
+ "modified": "2025-01-11 14:13:00.880502",
  "modified_by": "Administrator",
  "module": "Core",
  "name": "DocType",
